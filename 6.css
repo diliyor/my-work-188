@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+}
+i {
+    font-size: 130px;
+}
+input {
+    padding: 10px 150px 10px 5px ;    
+}
+button {
+    background-color: blue;
+    color: white;
+}
+.q1 {
+    padding: 10px 144px 10px 144px;
+}
+.q2 {
+    padding: 10px 105px 10px 105px;
+}
+.container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
